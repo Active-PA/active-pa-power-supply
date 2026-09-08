@@ -1,0 +1,3 @@
+[submodule "hardware/kicad"]
+	path = hardware/kicad
+	url = https://github.com/Active-PA/kicad-gan-power-supply.git
